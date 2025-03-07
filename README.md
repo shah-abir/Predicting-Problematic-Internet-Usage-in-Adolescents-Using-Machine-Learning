@@ -41,5 +41,3 @@ This project develops a **machine learning model** to identify early signs of **
 - **Visualization:** Matplotlib, Seaborn  
 
 ---
-
-## 📂 Project Structure  
